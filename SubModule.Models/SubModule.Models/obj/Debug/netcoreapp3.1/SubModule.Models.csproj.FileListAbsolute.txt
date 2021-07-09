@@ -1,0 +1,9 @@
+D:\Aliabbas\GitSubModuleTest\SubModule.Models\SubModule.Models\SubModule.Models\bin\Debug\netcoreapp3.1\SubModule.Models.deps.json
+D:\Aliabbas\GitSubModuleTest\SubModule.Models\SubModule.Models\SubModule.Models\bin\Debug\netcoreapp3.1\SubModule.Models.dll
+D:\Aliabbas\GitSubModuleTest\SubModule.Models\SubModule.Models\SubModule.Models\bin\Debug\netcoreapp3.1\SubModule.Models.pdb
+D:\Aliabbas\GitSubModuleTest\SubModule.Models\SubModule.Models\SubModule.Models\obj\Debug\netcoreapp3.1\SubModule.Models.csprojAssemblyReference.cache
+D:\Aliabbas\GitSubModuleTest\SubModule.Models\SubModule.Models\SubModule.Models\obj\Debug\netcoreapp3.1\SubModule.Models.AssemblyInfoInputs.cache
+D:\Aliabbas\GitSubModuleTest\SubModule.Models\SubModule.Models\SubModule.Models\obj\Debug\netcoreapp3.1\SubModule.Models.AssemblyInfo.cs
+D:\Aliabbas\GitSubModuleTest\SubModule.Models\SubModule.Models\SubModule.Models\obj\Debug\netcoreapp3.1\SubModule.Models.csproj.CoreCompileInputs.cache
+D:\Aliabbas\GitSubModuleTest\SubModule.Models\SubModule.Models\SubModule.Models\obj\Debug\netcoreapp3.1\SubModule.Models.dll
+D:\Aliabbas\GitSubModuleTest\SubModule.Models\SubModule.Models\SubModule.Models\obj\Debug\netcoreapp3.1\SubModule.Models.pdb
